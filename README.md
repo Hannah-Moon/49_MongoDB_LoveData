@@ -9,7 +9,7 @@
 - Instantiate a single MongoClient.
 - Ensure the app uses a single MongoClient instance.
 
-## Process
+## 🔄 Process
 
 1. Check if mongodb is installed:
 
@@ -20,7 +20,7 @@ npm list mongodb
 2. Initialize npm:
 
 ```
-npm install mongodb
+npm init mongodb
 ```
 
 3. Download the MongoDB package from the NPM registry:
